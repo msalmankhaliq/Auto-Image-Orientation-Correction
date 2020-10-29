@@ -1,2 +1,2 @@
 # Auto-Image-Orientation-Correction
-This model can automatically correct the orientation of the input image if it's rotated to 0, 90,180, 270 and 360 degrees.
+This model can automatically correct the orientation of the input image if it's rotated to 0, 90,180, 270 and 360 degrees. It is trained on a dataset of different angles of images such as 0 degree, 90 degree, 180 degree, 270 degree and 360 degree. Our model can classify the rotation angle of input image and then correct it's orrientation by rotating it to 0 degree angle.  
